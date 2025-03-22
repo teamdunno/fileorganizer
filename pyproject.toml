@@ -1,0 +1,9 @@
+[project]
+name = "teamdunno-fileorganizer"
+version = "0.1.0"
+description = "File organizer"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "rich>=13.9.4",
+]
